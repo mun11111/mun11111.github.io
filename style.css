@@ -1,0 +1,53 @@
+
+ #clock{
+
+  font-size: 100px; color:rgb(224, 220, 157); font-weight: bold;
+  position: absolute;
+  left: 30%; top: 30%;
+
+ }
+
+
+#login-form{
+  background-color: rgb(230, 220, 209);
+  text-align: right;
+
+ }
+
+#greeting{
+  font-size: 20px;
+  color:rgb(8, 203, 238); font-weight: bold;
+  position: absolute;
+  left: 30%; top: 36%;
+}
+
+
+#quote{
+  font-size: 10px;
+  color:rgb(224, 157, 194); font-weight: bold;
+  position: absolute;
+  left: 30%; top: 50%;
+ }
+
+ #todo-form{
+  font-size: 30px;
+  color:rgb(252, 0, 138); font-weight: bold;
+ position: absolute;
+ left: 30%; top: 55%;
+
+ }
+
+ #todo-list{
+  font-size: 25px;
+  color:rgb(252, 0, 138); font-weight: bold;
+ position: absolute;
+ left: 30%; top: 57%;
+ }
+
+#weather{
+  font-size: 15px;
+  color:rgb(22, 5, 14); font-weight: bold;
+ position: absolute;
+ left: 1%; top: 0.7%;
+
+}
