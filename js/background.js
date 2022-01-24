@@ -10,7 +10,7 @@ console.log(bgImage);
 
 // document.body.appendChild(bgImage) ;
 
-const style = `background-image: url('././${chosenImage}')`;
+const style = `background-image: url('img/${chosenImage}')`;
 document.body.style = style;
 
 //랜덤 색상 백그라운드 뷰 과제
